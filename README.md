@@ -1,2 +1,3 @@
-# cl277503-api
-ScrumDev AI backend (cl277503-api)
+# Task Manager Backend
+
+This is the backend for the Task Manager application built with FastAPI.
